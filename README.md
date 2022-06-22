@@ -5,4 +5,4 @@
 
 # Video
 
-[![Watch the video](/jpg/preview)]([https://www.youtube.com/watch?v=x-_zV9VEpoc](https://www.youtube.com/watch?v=uF-Ci-_N4Cs)) 
+[![Watch the video](/jpgpreview.png)]([https://www.youtube.com/watch?v=x-_zV9VEpoc](https://www.youtube.com/watch?v=uF-Ci-_N4Cs)) 
